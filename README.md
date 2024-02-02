@@ -9,8 +9,9 @@
   </tr>
 </table>
 
+<br>
 
 
-API引用元
-https://zipcloud.ibsnet.co.jp/doc/api　『zipcloud』
-https://excelapi.org/docs/post/zipcode/　『ExcelAPI』
+API引用元<br>
+https://zipcloud.ibsnet.co.jp/doc/api　『zipcloud』<br>
+https://excelapi.org/docs/post/zipcode/　『ExcelAPI』<br>
