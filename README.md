@@ -8,3 +8,9 @@
     <td><img src="https://github.com/LET-137/PostalCodeSearch/assets/152361449/c55db2b0-a17e-4620-98a5-4303605e5c5c"></td>
   </tr>
 </table>
+
+
+
+API引用元
+https://zipcloud.ibsnet.co.jp/doc/api　『zipcloud』
+https://excelapi.org/docs/post/zipcode/　『ExcelAPI』
