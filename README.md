@@ -13,5 +13,5 @@
 
 
 API引用元<br>
-https://zipcloud.ibsnet.co.jp/doc/api　『zipcloud』<br>
-https://excelapi.org/docs/post/zipcode/　『ExcelAPI』<br>
+https://zipcloud.ibsnet.co.jp/doc/api<br>
+https://excelapi.org/docs/post/zipcode/<br>
